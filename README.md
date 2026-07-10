@@ -93,4 +93,4 @@ Full function-by-function reference: see `API_REFERENCE.md`.
 
 ## License
 
-MIT (or replace with whatever you prefer before publishing).
+MIT
